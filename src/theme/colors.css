@@ -41,19 +41,19 @@
     background-color: var(--bg-blue-dark);
 }
 .bg-blue-white {
-    color: var(bg-marron-dark);
+    color: var(--bg-marron-dark);
     background-color: var(--bg-white);
 }
 .bg-blue-white-dark {
-    color: var(bg-marron-dark);
+    color: var(--bg-marron-dark);
     background-color: var(--bg-white-dark);
 }
 .bg-marron {
-    color: var(bg-marron-dark);
+    color: var(--bg-marron-dark);
     background-color: var(--bg-marron);
 }
 .bg-marron-dark {
-    color: var(bg-white);
+    color: var(--bg-white);
     background-color: var(--bg-marron-dark);
 }
 .bg-red {

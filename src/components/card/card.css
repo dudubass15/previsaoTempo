@@ -1,0 +1,8 @@
+.temperature {
+    width: 250px;
+    height: 200px;
+}
+.temperature .number {
+    font-size: 2.5rem;
+    font-weight: 700;
+}

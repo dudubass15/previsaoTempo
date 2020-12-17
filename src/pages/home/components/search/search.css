@@ -1,0 +1,9 @@
+.search {
+    width: 560px;
+}
+.outline-none {
+    outline: none !important;
+}
+.box-shadow-none {
+    box-shadow: none !important;
+}
